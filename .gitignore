@@ -1,0 +1,10 @@
+venv/
+aula27_descompactado
+aula27_diretorio_zip
+aula31_site
+aula34
+pdfs_originais
+.ipynb_checkpoints
+.env
+.env-example
+.vscode
